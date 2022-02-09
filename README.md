@@ -1,3 +1,3 @@
 # main
-## RollerShade-EMS-Energyplus.idf: 
-Energy Plus model for EMS modeling
+## RollerShade-EMS-Energyplus.idf
+Energy Plus IDF file for EMS modeling
