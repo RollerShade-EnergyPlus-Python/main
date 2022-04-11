@@ -1,6 +1,7 @@
 # main
 ## RollerShade-OpyPlus.idf
-Main Idf File
+Main Idf File 
+Scenario 6
 
 ## RollerShade-OpyPlus.ipynb
 Main Code
@@ -13,3 +14,7 @@ CSV file for IDF OPYPLUS report - timestep: 10min
 
 ## RollerShade-EMS-Energyplus.idf
 Energy Plus IDF file for EMS modeling
+Scenario 7
+
+## RollerShade-Scenario 1-5 
+Energy Plus IDF file for Scenario 1-5
